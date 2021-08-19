@@ -1,0 +1,7 @@
+steps
+1.install xampp
+2.copy this folder to C/xampp/htdocs
+3.start xampp (start apache and mysql)
+4.open the link http://localhost/phpmyadmin/index.php?route=/
+5.import the database from the folder database found in this folder
+6.open the link to check the project http://localhost/{folder name in htdocs}
